@@ -1,0 +1,19 @@
+
+.footer{
+
+
+    display: flex;
+    
+}
+
+.footeritems
+{color: antiquewhite;
+text-align: justify;
+
+  
+}
+
+.footeritems:nth-child(1){background: #160b41;}
+.footeritems:nth-child(2){background: #1d0505;}
+.footeritems:nth-child(3){background: #073f07;}
+.footeritems:nth-child(4){background: #313d06;}
